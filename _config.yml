@@ -10,8 +10,8 @@ author:
   email: "shreya.saxena@yale.edu, john.lafferty@yale.edu " 
 
 # Optional social links (update or remove as needed)
-social_links:
-  - name: "GitHub"
-    url: "https://github.com/your-organization"
-  - name: "Twitter"
-    url: "https://twitter.com/example"
+# social_links:
+#   - name: "GitHub"
+#     url: "https://github.com/your-organization"
+#   - name: "Twitter"
+#     url: "https://twitter.com/example"
