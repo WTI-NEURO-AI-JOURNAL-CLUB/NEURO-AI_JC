@@ -2,7 +2,8 @@
 # description: "Exploring ideas, one paper at a time."
 plugins:
   - jekyll-remote-theme # Allows the use of remote themes
-remote_theme: pages-themes/cayman@v0.2.0
+  remote_theme: pages-themes/cayman
+# remote_theme: pages-themes/cayman@v0.2.0
 
 
 # Site metadata
