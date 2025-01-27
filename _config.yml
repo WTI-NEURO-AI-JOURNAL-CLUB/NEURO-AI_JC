@@ -1,5 +1,3 @@
-# title: " Neuro-AI Journal Club"
-# description: "Exploring ideas, one paper at a time."
 plugins:
   - jekyll-remote-theme # Allows the use of remote themes
 remote_theme: pages-themes/cayman
@@ -9,7 +7,10 @@ remote_theme: pages-themes/cayman
 # Site metadata
 author:
   name: "Shreya Saxena, John Lafferty"
-  email: "shreya.saxena@yale.edu, john.lafferty@yale.edu " 
+  email: "shreya.saxena@yale.edu, john.lafferty@yale.edu" 
+
+# title: " Neuro-AI Journal Club"
+# description: "Exploring ideas, one paper at a time."
 
 # Optional social links (update or remove as needed)
 # social_links:
