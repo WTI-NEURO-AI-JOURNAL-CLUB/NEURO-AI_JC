@@ -33,3 +33,11 @@ plugins:
 #     url: "https://github.com/your-organization"
 #   - name: "Twitter"
 #     url: "https://twitter.com/example"
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: single
+    # values:
+    #   show_date: true
