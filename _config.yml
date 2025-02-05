@@ -9,11 +9,18 @@
 #   name: "Shreya Saxena, John Lafferty"
 #   email: "shreya.saxena@yale.edu, john.lafferty@yale.edu" 
 
+
 title: WTI Neuro-AI Journal Club
 description: Welcome to the Spring Semester Series of our Journal Club
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-cayman
+
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+# show_downloads: false
+# google_analytics:
+# theme: jekyll-theme-cayman
 
 # title: " Neuro-AI Journal Club"
 # description: "Exploring ideas, one paper at a time."
